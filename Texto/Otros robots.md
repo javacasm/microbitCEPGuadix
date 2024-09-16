@@ -2,7 +2,8 @@ cutebot
 
 catbot
 
-el de summer## micro:bit catCar 
+el de summer
+## micro:bit catCar 
 
 Se trata de otro robot sencillo para micro:bit
 
