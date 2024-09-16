@@ -1,4 +1,4 @@
-¿Qué ha en las carpetas?
+¿Qué hay en las carpetas?
 
 Vídeos: vídeos sin procesar y una carpeta con cada vídeo ya procesado y todo lo necesario para renderizarlo. Incluímos también la carátula de cada vídeo que estará en camba
 Videos\\Imágenes vídeos: imágenes que se usan frecuentemente en los videso
